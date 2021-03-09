@@ -75,3 +75,7 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+  # To add Assets to your application
+  assets:
+      - assets/images/row_girl.jpeg
