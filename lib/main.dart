@@ -27,7 +27,7 @@ class _RandomWordsState extends State<RandomWords> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("公司名单-刘德华"),
+        title: Text("公司名单"),
       ),
       body: _buildSuggestions(),
     );
